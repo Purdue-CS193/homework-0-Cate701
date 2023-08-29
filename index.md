@@ -1,4 +1,10 @@
-## Welcome to Cate's Github Pages!!
+## Cate's First CS193 Homework
+
+- CS193 doesn't have an overwhelming amount of work
+- The room is air conditioned
+- I'm going to learn some useful stuff from other students
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,7 +31,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-All of this stuff is super cool
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
